@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="4749cac9-c1c6-470b-b77d-a065c2a66c72">
+    <jcr:content
+        cq:name="configuration"
+        cq:parentPath="/content/dam/gql-demo/site/configuration"
+        dam:processingId="34c4f726-a57b-4bb0-a502-135d94eb117b"
+        dam:processingRenditions="[cqdam.machine.metadata.colors.json,cq5dam.web.1280.1280.jpeg,cq5dam.thumbnail.140.100.png,cqdam.machine.metadata.features.json,cq5dam.thumbnail.319.319.png,cqdam.photoshop.x-creative-json,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.tags.json,cqdam.metadata.xml,cq5dam.preview.pdf,cq5dam.thumbnail.48.48.png,cqdam.text.txt]"
+        dam:processingRequestedDate="{Date}2022-12-01T16:36:17.851Z"
+        dam:runPostProcess="{Boolean}true"
+        dam:scene7RequestID="34c4f726-a57b-4bb0-a502-135d94eb117b"
+        jcr:lastModified="{Date}2022-12-01T16:36:17.835Z"
+        jcr:lastModifiedBy="lamont@adobe.com"
+        jcr:primaryType="dam:AssetContent"
+        jcr:title="Configuration"
+        contentFragment="{Boolean}true"
+        lastFragmentSave="{Date}2022-12-01T16:36:17.835Z">
+        <data
+            cq:model="/conf/aem-demo-assets/settings/dam/cfm/models/configuration"
+            jcr:primaryType="nt:unstructured">
+            <master
+                jcr:mixinTypes="[cq:Taggable,dam:cfVariationNode]"
+                jcr:primaryType="nt:unstructured"
+                adventuresHome="/content/dam/aem-demo-assets/en/adventures"
+                adventuresHome_x0040_LastModified="{Date}2022-11-25T23:48:13.953Z"
+                footerExperienceFragment="/content/experience-fragments/wknd-site/language-masters/en/site/footer/master"
+                footerExperienceFragment_x0040_LastModified="{Date}2022-12-01T16:36:17.699Z"
+                headerExperienceFragment="/content/experience-fragments/wknd-site/language-masters/en/site/header"
+                headerExperienceFragment_x0040_LastModified="{Date}2022-10-25T16:41:30.075Z"
+                homePage="/content/dam/gql-demo/site/en/home/home"
+                homePage_x0040_LastModified="{Date}2022-11-25T23:48:13.952Z"
+                main_color="#ffffff"
+                main_color_x0040_LastModified="{Date}2022-11-28T17:37:03.881Z"
+                renditionsConfiguration="\{&#xa;  &quot;1900&quot;: &quot;web-optimized-xlarge.webp&quot;,&#xa;  &quot;1200&quot;: &quot;web-optimized-large.webp&quot;,&#xa;  &quot;900&quot;: &quot;web-optimized-medium.webp&quot;,&#xa;  &quot;600&quot;: &quot;web-optimized-medium.webp&quot;&#xa;}"
+                renditionsConfiguration_x0040_LastModified="{Date}2022-12-01T04:55:05.366Z"
+                siteLogo="/content/dam/aem-demo-assets/en/site/wknd-logo-light.png"
+                siteLogo_x0040_LastModified="{Date}2022-10-30T15:37:19.138Z"/>
+        </data>
+        <metadata
+            dam:scene7FileStatus="NotSupported"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

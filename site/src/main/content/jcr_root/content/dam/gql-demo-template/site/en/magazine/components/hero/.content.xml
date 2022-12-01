@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="8da6eaab-d5ae-4067-b209-d6acc4e229cf">
+    <jcr:content
+        cq:name="hero"
+        cq:parentPath="/content/dam/gql-demo/site/magazine/components"
+        dam:processingId="c6de4937-733b-4d32-aff6-ca05d645d8c8"
+        dam:processingRenditions="[cq5dam.thumbnail.140.100.png,cqdam.text.txt,cq5dam.thumbnail.319.319.png,cqdam.photoshop.x-creative-json,cqdam.machine.metadata.tags.json,cqdam.machine.metadata.features.json,cqdam.metadata.xml,cqdam.machine.metadata.colors.json,cq5dam.zoom.2048.2048.jpeg,cq5dam.preview.pdf,cq5dam.thumbnail.48.48.png,cq5dam.web.1280.1280.jpeg]"
+        dam:processingRequestedDate="{Date}2022-11-28T22:13:30.607Z"
+        dam:runPostProcess="{Boolean}true"
+        dam:scene7RequestID="c6de4937-733b-4d32-aff6-ca05d645d8c8"
+        jcr:lastModified="{Date}2022-11-28T22:13:30.592Z"
+        jcr:lastModifiedBy="lamont@adobe.com"
+        jcr:primaryType="dam:AssetContent"
+        jcr:title="Hero"
+        contentFragment="{Boolean}true"
+        lastFragmentSave="{Date}2022-11-28T22:13:30.592Z">
+        <data
+            cq:model="/conf/aem-demo-assets/settings/dam/cfm/models/teaser"
+            jcr:primaryType="nt:unstructured">
+            <master
+                jcr:mixinTypes="[cq:Taggable,dam:cfVariationNode]"
+                jcr:primaryType="nt:unstructured"
+                asset="/content/dam/aem-demo-assets/en/magazine/western-australia/adobestock_156407519.jpeg"
+                asset_x0040_LastModified="{Date}2022-11-28T22:13:30.454Z"
+                callToAction="Read Now"
+                callToAction_x0040_LastModified="{Date}2022-11-28T22:08:18.092Z"
+                description_x0040_ContentType="text/html"
+                description_x0040_LastModified="{Date}2022-11-23T19:56:34.661Z"
+                link="/content/experience-fragments/wknd-site/language-masters/en/magazine/western-australia/western-australia"
+                link_x0040_LastModified="{Date}2022-11-28T22:10:02.718Z"
+                placeholder_x0040_LastModified="{Date}2022-11-22T19:50:24.610Z"
+                preTitle="A camper’s heaven"
+                preTitle_x0040_LastModified="{Date}2022-11-22T19:50:24.612Z"
+                style="hero"
+                style_x0040_LastModified="{Date}2022-11-23T20:17:59.957Z"
+                title="Camping in Western Australia"
+                title_x0040_LastModified="{Date}2022-11-22T19:50:24.612Z"/>
+        </data>
+        <metadata
+            dam:scene7FileStatus="NotSupported"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

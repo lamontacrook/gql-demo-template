@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="16c50229-ef96-482e-aace-427759b76c5e">
+    <jcr:content
+        cq:name="header"
+        cq:parentPath="/content/dam/aem-demo-assets/es/aventuras/componentes"
+        dam:processingId="a9c87734-9916-4a0b-8d3b-9964f2096457"
+        dam:processingRenditions="[cq5dam.web.1280.1280.jpeg,cqdam.metadata.xml,cq5dam.zoom.2048.2048.jpeg,cqdam.photoshop.x-creative-json,cqdam.machine.metadata.colors.json,cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.features.json,cqdam.text.txt,cq5dam.thumbnail.140.100.png,cqdam.machine.metadata.tags.json,cq5dam.thumbnail.319.319.png,cq5dam.preview.pdf]"
+        dam:processingRequestedDate="{Date}2022-12-01T15:38:15.394Z"
+        dam:runPostProcess="{Boolean}true"
+        dam:scene7RequestID="a9c87734-9916-4a0b-8d3b-9964f2096457"
+        jcr:lastModified="{Date}2022-12-01T15:38:15.379Z"
+        jcr:lastModifiedBy="lamont@adobe.com"
+        jcr:primaryType="dam:AssetContent"
+        jcr:title="Header"
+        contentFragment="{Boolean}true"
+        lastFragmentSave="{Date}2022-12-01T15:38:15.379Z">
+        <data
+            cq:model="/conf/aem-demo-assets/settings/dam/cfm/models/header"
+            jcr:primaryType="nt:unstructured">
+            <master
+                jcr:mixinTypes="[cq:Taggable,dam:cfVariationNode]"
+                jcr:primaryType="nt:unstructured"
+                banner="/content/dam/gql-demo/assets/AdobeStock_224179452.jpeg"
+                banner_x0040_LastModified="{Date}2022-12-01T15:38:15.235Z"
+                placeholder_x0040_LastModified="{Date}2022-12-01T15:37:56.852Z"
+                teaser_x0040_LastModified="{Date}2022-12-01T15:37:56.852Z"/>
+        </data>
+        <metadata
+            dam:scene7FileStatus="NotSupported"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

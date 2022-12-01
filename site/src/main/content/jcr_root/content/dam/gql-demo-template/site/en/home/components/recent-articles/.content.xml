@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="626a1d1a-3f94-40d7-81c0-8583890e9497">
+    <jcr:content
+        cq:name="recent-articles"
+        cq:parentPath="/content/dam/gql-demo/site/en/home/components"
+        cq:versionCreator="lamont@adobe.com"
+        dam:processingId="e380980f-6009-463e-9fd8-954eec090fd1"
+        dam:processingRenditions="[cq5dam.web.1280.1280.jpeg,cqdam.text.txt,cqdam.photoshop.x-creative-json,cqdam.machine.metadata.features.json,cq5dam.thumbnail.319.319.png,cq5dam.zoom.2048.2048.jpeg,cqdam.metadata.xml,cq5dam.preview.pdf,cqdam.machine.metadata.colors.json,cq5dam.thumbnail.140.100.png,cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.tags.json]"
+        dam:processingRequestedDate="{Date}2022-11-23T23:29:57.883Z"
+        dam:runPostProcess="{Boolean}true"
+        dam:scene7RequestID="e380980f-6009-463e-9fd8-954eec090fd1"
+        jcr:lastModified="{Date}2022-11-23T23:29:57.867Z"
+        jcr:lastModifiedBy="lamont@adobe.com"
+        jcr:primaryType="dam:AssetContent"
+        jcr:title="Recent Articles"
+        contentFragment="{Boolean}true"
+        lastFragmentSave="{Date}2022-11-23T23:29:57.867Z">
+        <data
+            cq:model="/conf/aem-demo-assets/settings/dam/cfm/models/image-list"
+            jcr:primaryType="nt:unstructured">
+            <master
+                jcr:mixinTypes="[cq:Taggable,dam:cfVariationNode]"
+                jcr:primaryType="nt:unstructured"
+                imageListItems="[/content/experience-fragments/wknd-site/language-masters/en/magazine/arctic-surfing/arctic-surfing,/content/experience-fragments/wknd-site/language-masters/en/magazine/san-diego-surf/san-diego-surf,/content/experience-fragments/wknd-site/language-masters/en/magazine/ski-touring/ski-touring,/content/experience-fragments/wknd-site/language-masters/en/magazine/western-australia/western-australia]"
+                imageListItems_x0040_LastModified="{Date}2022-11-22T22:47:04.711Z"
+                imageListTitle="Recent Articles"
+                imageListTitle_x0040_LastModified="{Date}2022-11-06T15:31:09.913Z"
+                style="slider-list"
+                style_x0040_LastModified="{Date}2022-11-23T23:29:57.727Z"/>
+        </data>
+        <metadata
+            dam:scene7FileStatus="NotSupported"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

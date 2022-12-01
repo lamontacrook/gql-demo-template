@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:rep="internal"
+    jcr:mixinTypes="[rep:AccessControllable]"
+    jcr:primaryType="sling:Folder">
+    <jcr:content
+        dam:noThumbnail="{Boolean}true"
+        jcr:created="{Date}2022-10-19T18:55:25.682Z"
+        jcr:createdBy="lamont@adobe.com"
+        jcr:lastModified="{Date}2022-11-16T20:03:20.635Z"
+        jcr:lastModifiedBy="lamont@adobe.com"
+        jcr:primaryType="nt:unstructured"
+        jcr:title="Magazine"
+        sourcing="false">
+        <policies jcr:primaryType="nt:unstructured">
+            <cfm jcr:primaryType="nt:unstructured"/>
+        </policies>
+        <folderThumbnail/>
+    </jcr:content>
+</jcr:root>

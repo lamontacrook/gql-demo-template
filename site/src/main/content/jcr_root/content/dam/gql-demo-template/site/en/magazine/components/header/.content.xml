@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="8ca06ed7-2ace-4506-bf4c-b9fa15e7443b">
+    <jcr:content
+        cq:name="header"
+        cq:parentPath="/content/dam/gql-demo/site/magazine/components"
+        dam:processingId="189e1627-0aa7-4aa3-b751-b0db3107c54b"
+        dam:processingRenditions="[cqdam.metadata.xml,cqdam.machine.metadata.features.json,cqdam.machine.metadata.colors.json,cq5dam.preview.pdf,cqdam.text.txt,cq5dam.web.1280.1280.jpeg,cq5dam.thumbnail.48.48.png,cq5dam.thumbnail.140.100.png,cqdam.photoshop.x-creative-json,cqdam.machine.metadata.tags.json,cq5dam.thumbnail.319.319.png,cq5dam.zoom.2048.2048.jpeg]"
+        dam:processingRequestedDate="{Date}2022-11-23T19:46:07.781Z"
+        dam:runPostProcess="{Boolean}true"
+        dam:scene7RequestID="189e1627-0aa7-4aa3-b751-b0db3107c54b"
+        jcr:lastModified="{Date}2022-12-01T15:31:23.244Z"
+        jcr:lastModifiedBy="reference-adjustment-service"
+        jcr:primaryType="dam:AssetContent"
+        jcr:title="Header"
+        contentFragment="{Boolean}true"
+        lastFragmentSave="{Date}2022-12-01T15:31:23.244Z">
+        <data
+            cq:model="/conf/aem-demo-assets/settings/dam/cfm/models/header"
+            jcr:primaryType="nt:unstructured">
+            <master
+                jcr:mixinTypes="[cq:Taggable,dam:cfVariationNode]"
+                jcr:primaryType="nt:unstructured"
+                banner="/content/dam/gql-demo/assets/AdobeStock_302114365.jpeg"
+                banner_x0040_LastModified="{Date}2022-11-23T19:46:07.625Z"
+                placeholder_x0040_LastModified="{Date}2022-11-23T19:43:03.464Z"
+                teaser="/content/dam/gql-demo/site/en/magazine/components/hero"
+                teaser_x0040_LastModified="{Date}2022-11-23T19:46:07.625Z"/>
+        </data>
+        <metadata
+            dam:scene7FileStatus="NotSupported"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>
