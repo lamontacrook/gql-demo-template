@@ -6,7 +6,7 @@
     jcr:uuid="9431c403-77e0-4c00-8527-da7c9624fbf3">
     <jcr:content
         cq:name="adventures"
-        cq:parentPath="/content/dam/gql-demo/site/adventures"
+        cq:parentPath="/content/dam/gql-demo-template/site/adventures"
         dam:processingId="384101ec-bb79-49fc-889d-1f39aac23901"
         dam:processingRenditions="[cq5dam.zoom.2048.2048.jpeg,cq5dam.thumbnail.48.48.png,cq5dam.web.1280.1280.jpeg,cqdam.machine.metadata.features.json,cq5dam.preview.pdf,cq5dam.thumbnail.140.100.png,cqdam.machine.metadata.tags.json,cqdam.machine.metadata.colors.json,cqdam.text.txt,cq5dam.thumbnail.319.319.png,cqdam.metadata.xml,cqdam.photoshop.x-creative-json]"
         dam:processingRequestedDate="{Date}2022-11-23T20:35:47.285Z"
@@ -24,9 +24,9 @@
             <master
                 jcr:mixinTypes="[cq:Taggable,dam:cfVariationNode]"
                 jcr:primaryType="nt:unstructured"
-                block="[/content/dam/gql-demo/site/en/adventures/components/adventure-grid]"
+                block="[/content/dam/gql-demo-template/site/en/adventures/components/adventure-grid]"
                 block_x0040_LastModified="{Date}2022-11-23T20:35:47.145Z"
-                header="/content/dam/gql-demo/site/en/adventures/components/header"
+                header="/content/dam/gql-demo-template/site/en/adventures/components/header"
                 header_x0040_LastModified="{Date}2022-11-23T20:35:47.145Z"
                 positionInNavigation="pos2"
                 positionInNavigation_x0040_LastModified="{Date}2022-11-06T15:19:22.263Z"

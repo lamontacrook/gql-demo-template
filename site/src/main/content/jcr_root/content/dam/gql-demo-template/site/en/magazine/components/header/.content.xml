@@ -6,7 +6,7 @@
     jcr:uuid="8ca06ed7-2ace-4506-bf4c-b9fa15e7443b">
     <jcr:content
         cq:name="header"
-        cq:parentPath="/content/dam/gql-demo/site/magazine/components"
+        cq:parentPath="/content/dam/gql-demo-template/site/magazine/components"
         dam:processingId="189e1627-0aa7-4aa3-b751-b0db3107c54b"
         dam:processingRenditions="[cqdam.metadata.xml,cqdam.machine.metadata.features.json,cqdam.machine.metadata.colors.json,cq5dam.preview.pdf,cqdam.text.txt,cq5dam.web.1280.1280.jpeg,cq5dam.thumbnail.48.48.png,cq5dam.thumbnail.140.100.png,cqdam.photoshop.x-creative-json,cqdam.machine.metadata.tags.json,cq5dam.thumbnail.319.319.png,cq5dam.zoom.2048.2048.jpeg]"
         dam:processingRequestedDate="{Date}2022-11-23T19:46:07.781Z"
@@ -24,10 +24,10 @@
             <master
                 jcr:mixinTypes="[cq:Taggable,dam:cfVariationNode]"
                 jcr:primaryType="nt:unstructured"
-                banner="/content/dam/gql-demo/assets/AdobeStock_302114365.jpeg"
+                banner="/content/dam/gql-demo-template/assets/AdobeStock_302114365.jpeg"
                 banner_x0040_LastModified="{Date}2022-11-23T19:46:07.625Z"
                 placeholder_x0040_LastModified="{Date}2022-11-23T19:43:03.464Z"
-                teaser="/content/dam/gql-demo/site/en/magazine/components/hero"
+                teaser="/content/dam/gql-demo-template/site/en/magazine/components/hero"
                 teaser_x0040_LastModified="{Date}2022-11-23T19:46:07.625Z"/>
         </data>
         <metadata

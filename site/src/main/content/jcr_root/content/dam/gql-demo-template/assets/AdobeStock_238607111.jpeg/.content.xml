@@ -192,7 +192,7 @@
             dam:scene7Domain="https://smartimaging.scene7.com/"
             dam:scene7File="DynamicmediaNA1/AdobeStock_238607111"
             dam:scene7FileStatus="PublishComplete"
-            dam:scene7Folder="DynamicmediaNA1/gql-demo/assets/"
+            dam:scene7Folder="DynamicmediaNA1/gql-demo-template/assets/"
             dam:scene7LastModified="{Date}2022-11-29T17:15:38.973Z"
             dam:scene7Name="AdobeStock_238607111"
             dam:scene7PublishedBy="lamont@adobe.com"

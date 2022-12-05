@@ -6,7 +6,7 @@
     jcr:uuid="53e39cbc-7e02-432f-8896-30aa0b22aef5">
     <jcr:content
         cq:name="hero"
-        cq:parentPath="/content/dam/gql-demo/site/home/components"
+        cq:parentPath="/content/dam/gql-demo-template/site/home/components"
         dam:processingId="2511bc9d-26ca-44d4-84f5-b03b9cfc7e3f"
         dam:processingRenditions="[cq5dam.zoom.2048.2048.jpeg,cqdam.text.txt,cqdam.machine.metadata.colors.json,cqdam.metadata.xml,cqdam.machine.metadata.features.json,cq5dam.thumbnail.140.100.png,cqdam.photoshop.x-creative-json,cq5dam.web.1280.1280.jpeg,cq5dam.thumbnail.319.319.png,cq5dam.preview.pdf,cqdam.machine.metadata.tags.json,cq5dam.thumbnail.48.48.png]"
         dam:processingRequestedDate="{Date}2022-11-28T22:03:57.298Z"
@@ -24,7 +24,7 @@
             <master
                 jcr:mixinTypes="[cq:Taggable,dam:cfVariationNode]"
                 jcr:primaryType="nt:unstructured"
-                asset="/content/dam/gql-demo/assets/AdobeStock_238607111.jpeg"
+                asset="/content/dam/gql-demo-template/assets/AdobeStock_238607111.jpeg"
                 asset_x0040_LastModified="{Date}2022-11-22T19:46:37.969Z"
                 callToAction="Book Now"
                 callToAction_x0040_LastModified="{Date}2022-11-28T22:03:57.138Z"

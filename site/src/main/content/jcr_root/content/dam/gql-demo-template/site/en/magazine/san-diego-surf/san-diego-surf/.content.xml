@@ -6,7 +6,7 @@
     jcr:uuid="1f82d8a2-7025-4f1f-9d3c-0d994e35739e">
     <jcr:content
         cq:name="san-diego-surf"
-        cq:parentPath="/content/dam/gql-demo/site/magazine/san-diego-surf"
+        cq:parentPath="/content/dam/gql-demo-template/site/magazine/san-diego-surf"
         dam:processingId="3f53479d-d1f1-48c3-a5c1-b819c8c60d1d"
         dam:processingRenditions="[cqdam.metadata.xml,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.colors.json,cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.features.json,cq5dam.preview.pdf,cq5dam.web.1280.1280.jpeg,cq5dam.thumbnail.140.100.png,cqdam.photoshop.x-creative-json,cqdam.text.txt,cq5dam.thumbnail.319.319.png,cqdam.machine.metadata.tags.json]"
         dam:processingRequestedDate="{Date}2022-11-23T19:11:43.292Z"
@@ -26,11 +26,11 @@
                 jcr:primaryType="nt:unstructured"
                 block="[/content/experience-fragments/wknd-site/language-masters/en/magazine/san-diego-surf]"
                 block_x0040_LastModified="{Date}2022-11-23T19:11:43.140Z"
-                header="/content/dam/gql-demo/site/en/magazine/san-diego-surf/header"
+                header="/content/dam/gql-demo-template/site/en/magazine/san-diego-surf/header"
                 header_x0040_LastModified="{Date}2022-11-23T19:11:43.139Z"
                 positionInNavigation="dni"
                 positionInNavigation_x0040_LastModified="{Date}2022-11-13T16:22:33.124Z"
-                screenHeader="/content/dam/gql-demo/site/en/magazine/san-diego-surf/san-diego-surf-spot-header"
+                screenHeader="/content/dam/gql-demo-template/site/en/magazine/san-diego-surf/san-diego-surf-spot-header"
                 screenHeader_x0040_LastModified="{Date}2022-11-16T20:09:24.801Z"
                 screenName="San Diego Surf"
                 screenName_x0040_LastModified="{Date}2022-11-13T16:22:33.122Z"/>

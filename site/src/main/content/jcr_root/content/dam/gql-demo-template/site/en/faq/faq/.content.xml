@@ -6,7 +6,7 @@
     jcr:uuid="e7bdad29-8b6f-4e09-8562-1a0ce24e59a5">
     <jcr:content
         cq:name="faq"
-        cq:parentPath="/content/dam/gql-demo/site/faq"
+        cq:parentPath="/content/dam/gql-demo-template/site/faq"
         dam:scene7RequestID="277706cf-2cb4-43ea-b705-a30971103011"
         jcr:lastModified="{Date}2022-11-06T15:21:37.580Z"
         jcr:lastModifiedBy="lamont@adobe.com"

@@ -6,7 +6,7 @@
     jcr:uuid="84a457dd-96aa-478e-91b3-39f3cef050f6">
     <jcr:content
         cq:name="home"
-        cq:parentPath="/content/dam/gql-demo/site/home"
+        cq:parentPath="/content/dam/gql-demo-template/site/home"
         dam:processingId="11a6cba2-6537-4709-bd92-81247015962e"
         dam:processingRenditions="[cqdam.metadata.xml,cqdam.machine.metadata.features.json,cqdam.machine.metadata.tags.json,cqdam.machine.metadata.colors.json,cq5dam.thumbnail.140.100.png,cq5dam.thumbnail.48.48.png,cq5dam.preview.pdf,cq5dam.web.1280.1280.jpeg,cqdam.text.txt,cq5dam.thumbnail.319.319.png,cq5dam.zoom.2048.2048.jpeg,cqdam.photoshop.x-creative-json]"
         dam:processingRequestedDate="{Date}2022-11-22T22:30:55.393Z"
@@ -24,15 +24,15 @@
             <master
                 jcr:mixinTypes="[cq:Taggable,dam:cfVariationNode]"
                 jcr:primaryType="nt:unstructured"
-                block="[/content/dam/gql-demo/site/en/home/components/featured-article,/content/dam/gql-demo/site/en/home/components/recent-articles,/content/dam/gql-demo/site/en/home/components/next-adventure,/content/dam/gql-demo/site/en/home/components/where-do-you-want-to-go]"
+                block="[/content/dam/gql-demo-template/site/en/home/components/featured-article,/content/dam/gql-demo-template/site/en/home/components/recent-articles,/content/dam/gql-demo-template/site/en/home/components/next-adventure,/content/dam/gql-demo-template/site/en/home/components/where-do-you-want-to-go]"
                 block_x0040_LastModified="{Date}2022-11-22T22:30:55.221Z"
-                header="/content/dam/gql-demo/site/en/home/components/header"
+                header="/content/dam/gql-demo-template/site/en/home/components/header"
                 header_x0040_LastModified="{Date}2022-11-22T22:27:40.557Z"
                 positionInNavigation="dni"
                 positionInNavigation_x0040_LastModified="{Date}2022-10-19T14:56:03.196Z"
                 screenFooter="/content/experience-fragments/wknd-site/language-masters/en/site/footer"
                 screenFooter_x0040_LastModified="{Date}2022-10-25T16:10:51.144Z"
-                screenHeader="/content/dam/gql-demo/site/en/home/components/header"
+                screenHeader="/content/dam/gql-demo-template/site/en/home/components/header"
                 screenHeader_x0040_LastModified="{Date}2022-11-16T17:03:50.110Z"
                 screenName="Home"
                 screenName_x0040_LastModified="{Date}2022-10-19T14:56:03.195Z"/>

@@ -6,7 +6,7 @@
     jcr:uuid="4749cac9-c1c6-470b-b77d-a065c2a66c72">
     <jcr:content
         cq:name="configuration"
-        cq:parentPath="/content/dam/gql-demo/site/configuration"
+        cq:parentPath="/content/dam/gql-demo-template/site/configuration"
         dam:processingId="34c4f726-a57b-4bb0-a502-135d94eb117b"
         dam:processingRenditions="[cqdam.machine.metadata.colors.json,cq5dam.web.1280.1280.jpeg,cq5dam.thumbnail.140.100.png,cqdam.machine.metadata.features.json,cq5dam.thumbnail.319.319.png,cqdam.photoshop.x-creative-json,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.tags.json,cqdam.metadata.xml,cq5dam.preview.pdf,cq5dam.thumbnail.48.48.png,cqdam.text.txt]"
         dam:processingRequestedDate="{Date}2022-12-01T16:36:17.851Z"
@@ -30,7 +30,7 @@
                 footerExperienceFragment_x0040_LastModified="{Date}2022-12-01T16:36:17.699Z"
                 headerExperienceFragment="/content/experience-fragments/wknd-site/language-masters/en/site/header"
                 headerExperienceFragment_x0040_LastModified="{Date}2022-10-25T16:41:30.075Z"
-                homePage="/content/dam/gql-demo/site/en/home/home"
+                homePage="/content/dam/gql-demo-template/site/en/home/home"
                 homePage_x0040_LastModified="{Date}2022-11-25T23:48:13.952Z"
                 main_color="#ffffff"
                 main_color_x0040_LastModified="{Date}2022-11-28T17:37:03.881Z"

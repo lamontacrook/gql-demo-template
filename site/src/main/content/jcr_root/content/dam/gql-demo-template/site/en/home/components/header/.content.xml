@@ -6,7 +6,7 @@
     jcr:uuid="4723bb14-0dc5-4a3f-a88a-6ff31dbecd79">
     <jcr:content
         cq:name="header"
-        cq:parentPath="/content/dam/gql-demo/site/home/components"
+        cq:parentPath="/content/dam/gql-demo-template/site/home/components"
         dam:processingId="1b3f4777-f967-47c1-9fe3-b25c04f920c9"
         dam:processingRenditions="[cqdam.metadata.xml,cqdam.photoshop.x-creative-json,cqdam.machine.metadata.features.json,cq5dam.thumbnail.140.100.png,cq5dam.preview.pdf,cq5dam.thumbnail.319.319.png,cqdam.machine.metadata.colors.json,cq5dam.thumbnail.48.48.png,cq5dam.web.1280.1280.jpeg,cqdam.machine.metadata.tags.json,cqdam.text.txt,cq5dam.zoom.2048.2048.jpeg]"
         dam:processingRequestedDate="{Date}2022-11-22T22:09:49.051Z"
@@ -24,9 +24,9 @@
             <master
                 jcr:mixinTypes="[cq:Taggable,dam:cfVariationNode]"
                 jcr:primaryType="nt:unstructured"
-                headerTeaser="/content/dam/gql-demo/site/en/home/components/hero"
+                headerTeaser="/content/dam/gql-demo-template/site/en/home/components/hero"
                 headerTeaser_x0040_LastModified="{Date}2022-11-16T17:02:59.433Z"
-                teaser="/content/dam/gql-demo/site/en/home/components/hero"
+                teaser="/content/dam/gql-demo-template/site/en/home/components/hero"
                 teaser_x0040_LastModified="{Date}2022-11-22T22:09:48.898Z"/>
         </data>
         <metadata

@@ -6,7 +6,7 @@
     jcr:uuid="fdf6a254-d64a-4ad0-9353-ac308d42a2e7">
     <jcr:content
         cq:name="header"
-        cq:parentPath="/content/dam/gql-demo/site/adventures/components"
+        cq:parentPath="/content/dam/gql-demo-template/site/adventures/components"
         dam:processingId="f7891a9b-f946-4aa4-80b4-dceb918ec83e"
         dam:processingRenditions="[cq5dam.preview.pdf,cqdam.machine.metadata.features.json,cqdam.metadata.xml,cq5dam.thumbnail.319.319.png,cqdam.machine.metadata.colors.json,cq5dam.thumbnail.140.100.png,cq5dam.web.1280.1280.jpeg,cq5dam.zoom.2048.2048.jpeg,cqdam.photoshop.x-creative-json,cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.tags.json,cqdam.text.txt]"
         dam:processingRequestedDate="{Date}2022-12-01T05:26:17.121Z"
@@ -24,7 +24,7 @@
             <master
                 jcr:mixinTypes="[cq:Taggable,dam:cfVariationNode]"
                 jcr:primaryType="nt:unstructured"
-                banner="/content/dam/gql-demo/assets/AdobeStock_223106284.jpeg"
+                banner="/content/dam/gql-demo-template/assets/AdobeStock_223106284.jpeg"
                 banner_x0040_LastModified="{Date}2022-12-01T05:26:16.946Z"
                 placeholder_x0040_LastModified="{Date}2022-11-23T20:28:49.510Z"
                 teaser_x0040_LastModified="{Date}2022-11-23T20:28:49.510Z"/>

@@ -6,7 +6,7 @@
     jcr:uuid="3184dcd3-cd43-4b91-b20c-72572d903b37">
     <jcr:content
         cq:name="our-contributers"
-        cq:parentPath="/content/dam/gql-demo/site/about-us/components"
+        cq:parentPath="/content/dam/gql-demo-template/site/about-us/components"
         dam:processingId="0fd47415-460a-4ffb-b313-ccbc616f1b1c"
         dam:processingRenditions="[cqdam.machine.metadata.tags.json,cqdam.photoshop.x-creative-json,cq5dam.preview.pdf,cq5dam.thumbnail.48.48.png,cqdam.metadata.xml,cqdam.machine.metadata.colors.json,cq5dam.thumbnail.140.100.png,cq5dam.zoom.2048.2048.jpeg,cq5dam.web.1280.1280.jpeg,cqdam.machine.metadata.features.json,cq5dam.thumbnail.319.319.png,cqdam.text.txt]"
         dam:processingRequestedDate="{Date}2022-12-01T05:35:09.678Z"

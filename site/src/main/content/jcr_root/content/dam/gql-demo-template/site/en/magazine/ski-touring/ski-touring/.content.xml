@@ -6,7 +6,7 @@
     jcr:uuid="1c25f619-9dea-4e13-b8bc-680093a16e53">
     <jcr:content
         cq:name="ski-touring"
-        cq:parentPath="/content/dam/gql-demo/site/magazine/ski-touring"
+        cq:parentPath="/content/dam/gql-demo-template/site/magazine/ski-touring"
         dam:processingId="1bd325f6-d79f-476b-883f-1aa08ed785c3"
         dam:processingRenditions="[cq5dam.web.1280.1280.jpeg,cq5dam.zoom.2048.2048.jpeg,cq5dam.thumbnail.319.319.png,cqdam.machine.metadata.features.json,cqdam.metadata.xml,cqdam.text.txt,cq5dam.thumbnail.48.48.png,cqdam.photoshop.x-creative-json,cq5dam.thumbnail.140.100.png,cqdam.machine.metadata.colors.json,cqdam.machine.metadata.tags.json,cq5dam.preview.pdf]"
         dam:processingRequestedDate="{Date}2022-11-23T19:35:11.219Z"
@@ -26,11 +26,11 @@
                 jcr:primaryType="nt:unstructured"
                 block="[/content/experience-fragments/wknd-site/language-masters/en/magazine/ski-touring/ski-touring]"
                 block_x0040_LastModified="{Date}2022-11-23T19:35:11.074Z"
-                header="/content/dam/gql-demo/site/en/magazine/ski-touring/header"
+                header="/content/dam/gql-demo-template/site/en/magazine/ski-touring/header"
                 header_x0040_LastModified="{Date}2022-11-23T19:35:11.073Z"
                 positionInNavigation="dni"
                 positionInNavigation_x0040_LastModified="{Date}2022-11-17T03:06:08.689Z"
-                screenHeader="/content/dam/gql-demo/site/en/magazine/ski-touring/ski-touring-header"
+                screenHeader="/content/dam/gql-demo-template/site/en/magazine/ski-touring/ski-touring-header"
                 screenHeader_x0040_LastModified="{Date}2022-11-17T03:06:08.688Z"
                 screenName="Ski Touring"
                 screenName_x0040_LastModified="{Date}2022-11-16T19:21:29.918Z"/>

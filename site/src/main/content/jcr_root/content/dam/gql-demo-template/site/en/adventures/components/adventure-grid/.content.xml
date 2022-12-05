@@ -6,7 +6,7 @@
     jcr:uuid="1ceee5a5-557f-40e1-be3c-21adb72aa3b9">
     <jcr:content
         cq:name="adventure-grid"
-        cq:parentPath="/content/dam/gql-demo/site/adventures/components"
+        cq:parentPath="/content/dam/gql-demo-template/site/adventures/components"
         dam:processingId="daa235b2-b1d4-4db7-b132-f300726268ad"
         dam:processingRenditions="[cqdam.machine.metadata.features.json,cq5dam.web.1280.1280.jpeg,cq5dam.thumbnail.140.100.png,cqdam.photoshop.x-creative-json,cqdam.text.txt,cq5dam.thumbnail.319.319.png,cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.tags.json,cqdam.metadata.xml,cq5dam.preview.pdf,cqdam.machine.metadata.colors.json,cq5dam.zoom.2048.2048.jpeg]"
         dam:processingRequestedDate="{Date}2022-11-23T23:26:15.950Z"

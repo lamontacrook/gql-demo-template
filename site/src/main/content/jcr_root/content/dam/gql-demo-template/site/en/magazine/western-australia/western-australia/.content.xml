@@ -6,7 +6,7 @@
     jcr:uuid="6e05b8e6-6a77-48eb-82cb-d5c5be6d4e1d">
     <jcr:content
         cq:name="western-australia"
-        cq:parentPath="/content/dam/gql-demo/site/magazine/western-australia"
+        cq:parentPath="/content/dam/gql-demo-template/site/magazine/western-australia"
         dam:processingId="05121685-5b30-43e2-bfb3-0d36b5f57338"
         dam:processingRenditions="[cqdam.text.txt,cqdam.machine.metadata.features.json,cq5dam.thumbnail.319.319.png,cqdam.metadata.xml,cq5dam.thumbnail.140.100.png,cq5dam.preview.pdf,cqdam.machine.metadata.colors.json,cq5dam.web.1280.1280.jpeg,cq5dam.thumbnail.48.48.png,cqdam.photoshop.x-creative-json,cqdam.machine.metadata.tags.json,cq5dam.zoom.2048.2048.jpeg]"
         dam:processingRequestedDate="{Date}2022-11-29T17:31:53.442Z"
@@ -26,11 +26,11 @@
                 jcr:primaryType="nt:unstructured"
                 block="[/content/experience-fragments/wknd-site/language-masters/en/magazine/western-australia/western-australia]"
                 block_x0040_LastModified="{Date}2022-11-29T17:31:53.278Z"
-                header="/content/dam/gql-demo/site/en/magazine/western-australia/header"
+                header="/content/dam/gql-demo-template/site/en/magazine/western-australia/header"
                 header_x0040_LastModified="{Date}2022-11-23T19:32:46.202Z"
                 positionInNavigation="dni"
                 positionInNavigation_x0040_LastModified="{Date}2022-11-17T03:09:55.116Z"
-                screenHeader="/content/dam/gql-demo/site/en/magazine/western-australia/western-australia-header"
+                screenHeader="/content/dam/gql-demo-template/site/en/magazine/western-australia/western-australia-header"
                 screenHeader_x0040_LastModified="{Date}2022-11-17T03:09:55.116Z"
                 screenName="Western Australia"
                 screenName_x0040_LastModified="{Date}2022-11-16T19:18:48.382Z"/>

@@ -6,7 +6,7 @@
     jcr:uuid="69d858ed-9824-4774-b33e-162032063c05">
     <jcr:content
         cq:name="where-do-you-want-to-go"
-        cq:parentPath="/content/dam/gql-demo/site/home/components"
+        cq:parentPath="/content/dam/gql-demo-template/site/home/components"
         dam:processingId="9719fa21-77b9-4ac9-8965-eb9a6a3b520f"
         dam:processingRenditions="[cq5dam.thumbnail.319.319.png,cq5dam.web.1280.1280.jpeg,cq5dam.zoom.2048.2048.jpeg,cq5dam.preview.pdf,cqdam.metadata.xml,cqdam.machine.metadata.colors.json,cq5dam.thumbnail.140.100.png,cq5dam.thumbnail.48.48.png,cqdam.photoshop.x-creative-json,cqdam.machine.metadata.features.json,cqdam.machine.metadata.tags.json,cqdam.text.txt]"
         dam:processingRequestedDate="{Date}2022-11-23T23:30:24.297Z"

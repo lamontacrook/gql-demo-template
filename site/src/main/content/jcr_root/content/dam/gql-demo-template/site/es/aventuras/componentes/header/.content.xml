@@ -24,7 +24,7 @@
             <master
                 jcr:mixinTypes="[cq:Taggable,dam:cfVariationNode]"
                 jcr:primaryType="nt:unstructured"
-                banner="/content/dam/gql-demo/assets/AdobeStock_224179452.jpeg"
+                banner="/content/dam/gql-demo-template/assets/AdobeStock_224179452.jpeg"
                 banner_x0040_LastModified="{Date}2022-12-01T15:38:15.235Z"
                 placeholder_x0040_LastModified="{Date}2022-12-01T15:37:56.852Z"
                 teaser_x0040_LastModified="{Date}2022-12-01T15:37:56.852Z"/>

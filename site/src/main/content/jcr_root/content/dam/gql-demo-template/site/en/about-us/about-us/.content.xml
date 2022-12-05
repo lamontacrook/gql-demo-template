@@ -6,7 +6,7 @@
     jcr:uuid="345b13ab-a0a1-4bae-a42d-e0caa0532a18">
     <jcr:content
         cq:name="about-us"
-        cq:parentPath="/content/dam/gql-demo/site/about-us"
+        cq:parentPath="/content/dam/gql-demo-template/site/about-us"
         dam:processingId="bc010131-86ab-4db1-be45-062809a6ff9d"
         dam:processingRenditions="[cq5dam.preview.pdf,cqdam.text.txt,cqdam.machine.metadata.features.json,cq5dam.thumbnail.140.100.png,cqdam.machine.metadata.colors.json,cqdam.machine.metadata.tags.json,cqdam.metadata.xml,cq5dam.thumbnail.319.319.png,cq5dam.web.1280.1280.jpeg,cqdam.photoshop.x-creative-json,cq5dam.thumbnail.48.48.png,cq5dam.zoom.2048.2048.jpeg]"
         dam:processingRequestedDate="{Date}2022-12-01T05:43:48.262Z"
@@ -24,9 +24,9 @@
             <master
                 jcr:mixinTypes="[cq:Taggable,dam:cfVariationNode]"
                 jcr:primaryType="nt:unstructured"
-                block="[/content/dam/gql-demo/site/en/about-us/components/our-contributers]"
+                block="[/content/dam/gql-demo-template/site/en/about-us/components/our-contributers]"
                 block_x0040_LastModified="{Date}2022-12-01T05:43:48.102Z"
-                header="/content/dam/gql-demo/site/en/about-us/components/header"
+                header="/content/dam/gql-demo-template/site/en/about-us/components/header"
                 header_x0040_LastModified="{Date}2022-12-01T05:43:48.101Z"
                 positionInNavigation="pos3"
                 positionInNavigation_x0040_LastModified="{Date}2022-11-06T15:20:14.698Z"

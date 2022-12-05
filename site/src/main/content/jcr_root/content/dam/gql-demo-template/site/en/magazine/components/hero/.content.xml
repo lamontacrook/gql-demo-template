@@ -6,7 +6,7 @@
     jcr:uuid="8da6eaab-d5ae-4067-b209-d6acc4e229cf">
     <jcr:content
         cq:name="hero"
-        cq:parentPath="/content/dam/gql-demo/site/magazine/components"
+        cq:parentPath="/content/dam/gql-demo-template/site/magazine/components"
         dam:processingId="c6de4937-733b-4d32-aff6-ca05d645d8c8"
         dam:processingRenditions="[cq5dam.thumbnail.140.100.png,cqdam.text.txt,cq5dam.thumbnail.319.319.png,cqdam.photoshop.x-creative-json,cqdam.machine.metadata.tags.json,cqdam.machine.metadata.features.json,cqdam.metadata.xml,cqdam.machine.metadata.colors.json,cq5dam.zoom.2048.2048.jpeg,cq5dam.preview.pdf,cq5dam.thumbnail.48.48.png,cq5dam.web.1280.1280.jpeg]"
         dam:processingRequestedDate="{Date}2022-11-28T22:13:30.607Z"

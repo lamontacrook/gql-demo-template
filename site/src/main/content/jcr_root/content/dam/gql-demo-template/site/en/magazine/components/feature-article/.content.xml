@@ -6,7 +6,7 @@
     jcr:uuid="b1cb3e5f-518e-4317-8b59-1e27683f76b2">
     <jcr:content
         cq:name="feature-article"
-        cq:parentPath="/content/dam/gql-demo/site/magazine/components"
+        cq:parentPath="/content/dam/gql-demo-template/site/magazine/components"
         dam:processingId="7953d663-7968-4e38-9bb8-cf2be0640713"
         dam:processingRenditions="[cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.tags.json,cq5dam.thumbnail.140.100.png,cqdam.machine.metadata.colors.json,cqdam.metadata.xml,cq5dam.web.1280.1280.jpeg,cq5dam.preview.pdf,cqdam.photoshop.x-creative-json,cqdam.machine.metadata.features.json,cqdam.text.txt,cq5dam.thumbnail.319.319.png,cq5dam.zoom.2048.2048.jpeg]"
         dam:processingRequestedDate="{Date}2022-11-23T20:20:26.075Z"
@@ -24,7 +24,7 @@
             <master
                 jcr:mixinTypes="[cq:Taggable,dam:cfVariationNode]"
                 jcr:primaryType="nt:unstructured"
-                asset="/content/dam/gql-demo/assets/AdobeStock_238607111.jpeg"
+                asset="/content/dam/gql-demo-template/assets/AdobeStock_238607111.jpeg"
                 asset_x0040_LastModified="{Date}2022-11-23T19:54:15.355Z"
                 callToAction_x0040_LastModified="{Date}2022-11-23T19:53:04.557Z"
                 description="&lt;p>The Australian West coast is a camper’s heaven. Endless miles of desert roads leading to secret beaches, vast canyons and crystal clear rivers, and the very few people you are likely to meet on your journey will be some of the most easy-going characters you’ll find anywhere in the world.&lt;/p>&#xa;"
