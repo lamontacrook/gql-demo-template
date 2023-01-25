@@ -5,27 +5,33 @@
     jcr:primaryType="dam:Asset"
     jcr:uuid="1f82d8a2-7025-4f1f-9d3c-0d994e35739e">
     <jcr:content
+        cq:lastReplicated="{Date}2022-12-07T03:48:53.222Z"
+        cq:lastReplicated_publish="{Date}2022-12-07T03:48:53.222Z"
+        cq:lastReplicatedBy="lamont@adobe.com"
+        cq:lastReplicatedBy_publish="lamont@adobe.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
         cq:name="san-diego-surf"
-        cq:parentPath="/content/dam/gql-demo-template/site/magazine/san-diego-surf"
-        dam:processingId="3f53479d-d1f1-48c3-a5c1-b819c8c60d1d"
-        dam:processingRenditions="[cqdam.metadata.xml,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.colors.json,cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.features.json,cq5dam.preview.pdf,cq5dam.web.1280.1280.jpeg,cq5dam.thumbnail.140.100.png,cqdam.photoshop.x-creative-json,cqdam.text.txt,cq5dam.thumbnail.319.319.png,cqdam.machine.metadata.tags.json]"
-        dam:processingRequestedDate="{Date}2022-11-23T19:11:43.292Z"
+        cq:parentPath="/content/dam/gql-demo-template/site/en/magazine/san-diego-surf"
+        dam:processingId="73018fff-46fe-4c54-8506-d5b9fc562021"
+        dam:processingRenditions="[cq5dam.thumbnail.319.319.png,cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.features.json,cqdam.metadata.xml,cq5dam.zoom.2048.2048.jpeg,cq5dam.preview.pdf,cq5dam.thumbnail.140.100.png,cqdam.text.txt,cqdam.machine.metadata.colors.json,cq5dam.web.1280.1280.jpeg,cqdam.machine.metadata.tags.json]"
+        dam:processingRequestedDate="{Date}2023-01-03T21:55:57.500Z"
         dam:runPostProcess="{Boolean}true"
         dam:scene7RequestID="3f53479d-d1f1-48c3-a5c1-b819c8c60d1d"
-        jcr:lastModified="{Date}2022-12-01T15:31:23.246Z"
-        jcr:lastModifiedBy="reference-adjustment-service"
+        jcr:lastModified="{Date}2023-01-03T21:55:57.483Z"
+        jcr:lastModifiedBy="lamont@adobe.com"
         jcr:primaryType="dam:AssetContent"
         jcr:title="San Diego Surf"
         contentFragment="{Boolean}true"
-        lastFragmentSave="{Date}2022-12-01T15:31:23.247Z">
+        lastFragmentSave="{Date}2023-01-03T21:55:57.483Z">
         <data
             cq:model="/conf/aem-demo-assets/settings/dam/cfm/models/screen"
             jcr:primaryType="nt:unstructured">
             <master
                 jcr:mixinTypes="[cq:Taggable,dam:cfVariationNode]"
                 jcr:primaryType="nt:unstructured"
-                block="[/content/experience-fragments/wknd-site/language-masters/en/magazine/san-diego-surf]"
-                block_x0040_LastModified="{Date}2022-11-23T19:11:43.140Z"
+                block="[/content/experience-fragments/wknd-site/language-masters/en/magazine/san-diego-surf/san-diego-surf,/content/dam/gql-demo-template/site/en/magazine/san-diego-surf/related-articles]"
+                block_x0040_LastModified="{Date}2023-01-03T21:55:57.345Z"
                 header="/content/dam/gql-demo-template/site/en/magazine/san-diego-surf/header"
                 header_x0040_LastModified="{Date}2022-11-23T19:11:43.139Z"
                 positionInNavigation="dni"
@@ -36,7 +42,7 @@
                 screenName_x0040_LastModified="{Date}2022-11-13T16:22:33.122Z"/>
         </data>
         <metadata
-            cq:tags="[dunkin:northeast]"
+            cq:tags="[]"
             dam:scene7FileStatus="NotSupported"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"/>

@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jcr:root xmlns:exifEX="http://cipa.jp/exif/1.0/" xmlns:crd="http://ns.adobe.com/camera-raw-defaults/1.0/" xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/" xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:psAux="http://ns.adobe.com/exif/1.0/aux/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:prismusagerights="http://prismstandard.org/namespaces/prismusagerights/2.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
-    jcr:mixinTypes="[mix:referenceable]"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
     jcr:primaryType="dam:Asset"
     jcr:uuid="39f109ff-c465-4865-8440-1a45a175414b">
     <jcr:content
-        cq:lastReplicated="{Date}2022-11-23T19:36:43.532Z"
-        cq:lastReplicated_publish="{Date}2022-11-23T19:36:43.532Z"
+        cq:lastReplicated="{Date}2022-12-07T03:48:45.925Z"
+        cq:lastReplicated_publish="{Date}2022-12-07T03:48:45.925Z"
         cq:lastReplicated_scene7="{Date}2022-11-23T19:36:43.532Z"
         cq:lastReplicatedBy="lamont@adobe.com"
         cq:lastReplicatedBy_publish="lamont@adobe.com"
@@ -13,35 +14,36 @@
         cq:lastReplicationAction="Activate"
         cq:lastReplicationAction_publish="Activate"
         cq:lastReplicationAction_scene7="Activate"
+        cq:name="AdobeStock_223106284.jpeg"
+        cq:parentPath="/content/dam/gql-demo-template/assets"
         dam:assetState="processed"
-        dam:asyncJobId="2022/11/28/20/34/d9bb5d74-1c44-4a8b-a5d1-793a73bdd90a_52"
+        dam:asyncJobId="2022/12/5/16/49/9aac3089-89b7-40f1-99b7-3d99bb488114_1"
         dam:imageServerAsset="{Boolean}true"
-        dam:jobId="d649c56c-1605-41bd-9e78-079bf7306253"
-        dam:processingId="bd518548-ffde-4d9d-8aac-db9bf9d113a0"
-        dam:processingRenditions="[cqdam.text.txt,cq5dam.web.1280.1280.jpeg,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.features.json,cqdam.photoshop.x-creative-json,cq5dam.thumbnail.319.319.png,cq5dam.preview.pdf,web-optimized-xlarge.webp,web-optimized-small.webp,cqdam.machine.metadata.tags.json,web-optimized-large.webp,cqdam.metadata.xml,web-optimized-medium.webp,cqdam.machine.metadata.colors.json,cq5dam.thumbnail.48.48.png,cq5dam.thumbnail.140.100.png]"
-        dam:processingRequestedDate="{Date}2022-11-28T20:35:17.374Z"
+        dam:jobId="81513aa2-a06e-451b-a451-15663cd76d03"
+        dam:processingId="4139974e-ecb7-4de4-9b00-dd36bcd86758"
+        dam:processingRenditions="[cq5dam.preview.pdf,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.colors.json,cqdam.metadata.xml,web-optimized-medium.webp,cq5dam.web.1280.1280.jpeg,web-optimized-large.webp,cqdam.machine.metadata.tags.json,cqdam.machine.metadata.crops.json,cqdam.text.txt,cq5dam.thumbnail.319.319.png,web-optimized-small.webp,web-optimized-xlarge.webp,cqdam.machine.metadata.swatches.json,cq5dam.thumbnail.48.48.png,cq5dam.thumbnail.140.100.png,cqdam.machine.metadata.features.json]"
+        dam:processingRequestedDate="{Date}2023-01-22T15:38:37.648Z"
         dam:runPostProcess="{Boolean}true"
         dam:s7damType="Image"
-        dam:scene7BatchId="_YDzv4QBAAAFATbSktrLEtzMem9D8XGU"
-        dam:scene7RequestID="bd518548-ffde-4d9d-8aac-db9bf9d113a0"
-        jcr:lastModified="{Date}2022-11-28T20:37:42.626Z"
+        dam:scene7BatchId="_K0h2oUBAADgpmjIoK6QwOIXEX88rCbI"
+        dam:scene7RequestID="4139974e-ecb7-4de4-9b00-dd36bcd86758"
+        jcr:lastModified="{Date}2023-01-22T15:40:02.449Z"
         jcr:lastModifiedBy="lamont@adobe.com"
-        jcr:mixinTypes="[cq:ReplicationStatus]"
         jcr:primaryType="dam:AssetContent"
+        dxmlLastCreatedVersion="1.2"
+        fmPostProcessedAt="2022-12-02T19:49:23.009Z|39f109ff-c465-4865-8440-1a45a175414b|2022-12-02T19:49:22.471Z|13|0"
+        fmUuid="GUID-ed98407a-8eff-4d8b-a967-f11b318b8ca1"
+        hasLocalCrops="{Boolean}true"
         status="Finished">
         <dam:failedRenditions jcr:primaryType="nt:unstructured">
-            <cqdam.text.txt
-                jcr:primaryType="nt:unstructured"
-                message="Text extraction (fmt=txt) is not supported for jpeg files"
-                reason="RenditionFormatUnsupported"/>
             <cq5dam.preview.pdf
                 jcr:primaryType="nt:unstructured"
                 message="Format pdf is not supported for jpeg files"
                 reason="RenditionFormatUnsupported"/>
-            <cqdam.photoshop.x-creative-json
+            <cqdam.text.txt
                 jcr:primaryType="nt:unstructured"
-                message="Manifest only supported for Photoshop files"
-                reason="SourceFormatUnsupported"/>
+                message="Text extraction (fmt=txt) is not supported for jpeg files"
+                reason="RenditionFormatUnsupported"/>
         </dam:failedRenditions>
         <metadata
             crs:AlreadyApplied="True"
@@ -173,7 +175,7 @@
             crs:VignetteAmount="{Long}0"
             crs:Whites2012="{Long}-95"
             dam:Bitsperpixel="{Long}24"
-            dam:extracted="{Date}2022-11-28T20:35:27.546Z"
+            dam:extracted="{Date}2023-01-22T15:39:09.776Z"
             dam:Fileformat="JPEG"
             dam:MIMEtype="image/jpeg"
             dam:Numberofimages="{Long}1"
@@ -182,28 +184,28 @@
             dam:Physicalheightininches="{Decimal}12.59333324432373"
             dam:Physicalwidthindpi="{Long}300"
             dam:Physicalwidthininches="{Decimal}46.85333251953125"
-            dam:predictedColors="{Long}[10031,33020,14019,13013,8009,20007]"
+            dam:predictedColors="{Long}[10031,14021,33018,8010,20008,13006,32006]"
             dam:Progressive="no"
             dam:scene7APIServer="https://s7sps1apissl.scene7.com"
-            dam:scene7CloudConfigPath="/conf/aem-demo-assets/settings/cloudconfigs/dmscene7"
+            dam:scene7CloudConfigPath="/conf/global/settings/cloudconfigs/dmscene7"
             dam:scene7CompanyID="c|230999"
-            dam:scene7Domain="http://s7d1.scene7.com/"
-            dam:scene7File="DynamicmediaNA1/AdobeStock_223106284"
-            dam:scene7FileStatus="PublishComplete"
+            dam:scene7Domain="https://smartimaging.scene7.com/"
+            dam:scene7File="DynamicmediaNA1/AdobeStock_223106284-1"
+            dam:scene7FileStatus="PublishIncomplete"
             dam:scene7Folder="DynamicmediaNA1/gql-demo-template/assets/"
-            dam:scene7ID="a|1343434177"
-            dam:scene7LastModified="{Date}2022-11-28T20:37:34.080Z"
-            dam:scene7Name="AdobeStock_223106284"
+            dam:scene7ID="a|1390001566"
+            dam:scene7LastModified="{Date}2023-01-22T15:39:54.633Z"
+            dam:scene7Name="AdobeStock_223106284-1"
             dam:scene7PublishedBy="lamont@adobe.com"
             dam:scene7PublishTimeStamp="{Date}2022-11-28T20:37:34.083Z"
             dam:scene7Type="Image"
-            dam:scene7UploadTimeStamp="{Date}2022-11-28T20:37:34.083Z"
+            dam:scene7UploadTimeStamp="{Date}2023-01-22T15:39:54.636Z"
             dam:sha1="70842f55a21465e562e2e4e44a5c73232b6c5c2f"
             dam:size="{Long}14591222"
             dam:TimeCreated="114925+0000"
             dc:date="{Long}[20180207]"
             dc:date_xmpArrayType="rdf:Seq"
-            dc:description="Ski in winter season, mountains and ski touring equipments on the top in sunny day in France, Alps above the clouds.&#xa;"
+            dc:description="Ski in winter season, mountains and ski touring equipments on the top in sunny day in France, Alps above the clouds.&amp;#xD;"
             dc:format="image/jpeg"
             dc:subject="[ski,skiing,winter,snow,skier,fun,white,downhill,sport,alps,season,vacation,sky,family,mountain,powder,slope,outdoor,travel,cold,mountainside,blue,extreme,active,holiday,lifestyle,recreation,ice,fast,mountains,alpine,action,nature,landscape,freeride,speed,italy,tourism,men,cool,male,France,tourism,men,Meribel,Courchevel,3 valeys,3 vallees,France]"
             dc:subject_xmpArrayType="rdf:Bag"
@@ -285,7 +287,8 @@
             xmp:Rating="{Decimal}5"
             xmpMM:DocumentID="adobe:docid:photoshop:e5f68de5-665e-a943-8fbc-6ccd4474f949"
             xmpMM:InstanceID="xmp.iid:31a83cc9-3c12-473a-bad1-4afdd60e1837"
-            xmpMM:OriginalDocumentID="420C667236A85C86B783103DC8E03657">
+            xmpMM:OriginalDocumentID="420C667236A85C86B783103DC8E03657"
+            docstate="Draft">
             <crs:Look
                 crs:Name="Adobe Vivid"
                 jcr:primaryType="nt:unstructured"
@@ -300,213 +303,230 @@
                 crs:Name="Adobe Vivid"
                 jcr:primaryType="nt:unstructured"
                 xmpNodeType="xmpStruct"/>
-            <imageFeatures
-                jcr:lastModified="{Date}2022-11-28T20:35:28.398Z"
-                jcr:primaryType="nt:unstructured"
-                haystack0="{Binary}"/>
-            <dam:colorDistribution jcr:primaryType="nt:unstructured">
-                <color1
-                    jcr:lastModified="{Date}2022-11-28T20:35:28.400Z"
-                    jcr:mixinTypes="[dam:color]"
-                    jcr:primaryType="nt:unstructured"
-                    coverage="{Double}0.3139"
-                    name="LIGHT_BLUE"
-                    rank="{Long}1"
-                    rgb="{Long}[116,184,230]"/>
-                <color2
-                    jcr:lastModified="{Date}2022-11-28T20:35:28.401Z"
-                    jcr:mixinTypes="[dam:color]"
-                    jcr:primaryType="nt:unstructured"
-                    coverage="{Double}0.2002"
-                    name="TURQUOISE"
-                    rank="{Long}2"
-                    rgb="{Long}[7,139,228]"/>
-                <color3
-                    jcr:lastModified="{Date}2022-11-28T20:35:28.401Z"
-                    jcr:mixinTypes="[dam:color]"
-                    jcr:primaryType="nt:unstructured"
-                    coverage="{Double}0.194"
-                    name="OFF_WHITE"
-                    rank="{Long}3"
-                    rgb="{Long}[223,227,232]"/>
-                <color4
-                    jcr:lastModified="{Date}2022-11-28T20:35:28.402Z"
-                    jcr:mixinTypes="[dam:color]"
-                    jcr:primaryType="nt:unstructured"
-                    coverage="{Double}0.1264"
-                    name="WHITE"
-                    rank="{Long}4"
-                    rgb="{Long}[240,240,243]"/>
-                <color5
-                    jcr:lastModified="{Date}2022-11-28T20:35:28.403Z"
-                    jcr:mixinTypes="[dam:color]"
-                    jcr:primaryType="nt:unstructured"
-                    coverage="{Double}0.0932"
-                    name="BLUE"
-                    rank="{Long}5"
-                    rgb="{Long}[2,111,214]"/>
-                <color6
-                    jcr:lastModified="{Date}2022-11-28T20:35:28.404Z"
-                    jcr:mixinTypes="[dam:color]"
-                    jcr:primaryType="nt:unstructured"
-                    coverage="{Double}0.0723"
-                    name="CYAN"
-                    rank="{Long}6"
-                    rgb="{Long}[205,223,234]"/>
-            </dam:colorDistribution>
             <predictedTags jcr:primaryType="nt:unstructured">
                 <snow
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.222Z"
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.556Z"
                     jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.8679831624031067"
+                    confidence="{Double}0.8662265539169312"
                     isCustom="{Boolean}false"
                     name="snow"/>
-                <cold
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.223Z"
-                    jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.8160029649734497"
-                    isCustom="{Boolean}false"
-                    name="cold"/>
                 <winter
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.223Z"
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.556Z"
                     jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.8129417896270752"
+                    confidence="{Double}0.8051202297210693"
                     isCustom="{Boolean}false"
                     name="winter"/>
-                <ice
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.224Z"
-                    jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.7955918312072754"
-                    isCustom="{Boolean}false"
-                    name="ice"/>
-                <blue
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.225Z"
-                    jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.7886977791786194"
-                    isCustom="{Boolean}false"
-                    name="blue"/>
-                <landscape
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.226Z"
-                    jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.7813800573348999"
-                    isCustom="{Boolean}false"
-                    name="landscape"/>
                 <mountain
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.227Z"
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.557Z"
                     jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.7763464450836182"
+                    confidence="{Double}0.8045605421066284"
                     isCustom="{Boolean}false"
                     name="mountain"/>
-                <sky
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.227Z"
+                <cold
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.558Z"
                     jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.7542873620986938"
+                    confidence="{Double}0.8039159178733826"
+                    isCustom="{Boolean}false"
+                    name="cold"/>
+                <ice
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.559Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.795527458190918"
+                    isCustom="{Boolean}false"
+                    name="ice"/>
+                <landscape
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.560Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7901674509048462"
+                    isCustom="{Boolean}false"
+                    name="landscape"/>
+                <blue
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.561Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7711659073829651"
+                    isCustom="{Boolean}false"
+                    name="blue"/>
+                <sky
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.562Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7525413036346436"
                     isCustom="{Boolean}false"
                     name="sky"/>
                 <nature
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.228Z"
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.563Z"
                     jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.7396694421768188"
+                    confidence="{Double}0.7251603603363037"
                     isCustom="{Boolean}false"
                     name="nature"/>
-                <white
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.229Z"
+                <glacier
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.564Z"
                     jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.7180299162864685"
+                    confidence="{Double}0.7138333916664124"
+                    isCustom="{Boolean}false"
+                    name="glacier"/>
+                <white
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.565Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.703159749507904"
                     isCustom="{Boolean}false"
                     name="white"/>
                 <frozen
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.229Z"
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.566Z"
                     jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.7095797061920166"
+                    confidence="{Double}0.6845861673355103"
                     isCustom="{Boolean}false"
                     name="frozen"/>
-                <glacier
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.230Z"
-                    jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.687140941619873"
-                    isCustom="{Boolean}false"
-                    name="glacier"/>
-                <cloud
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.230Z"
-                    jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.6563913822174072"
-                    isCustom="{Boolean}false"
-                    name="cloud"/>
                 <mountains
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.231Z"
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.567Z"
                     jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.6544430255889893"
+                    confidence="{Double}0.684110701084137"
                     isCustom="{Boolean}false"
                     name="mountains"/>
-                <arctic
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.231Z"
+                <cloud
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.568Z"
                     jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.6430400013923645"
+                    confidence="{Double}0.6716984510421753"
                     isCustom="{Boolean}false"
-                    name="arctic"/>
-                <frost
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.232Z"
-                    jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.6412655115127563"
-                    isCustom="{Boolean}false"
-                    name="frost"/>
+                    name="cloud"/>
                 <travel
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.232Z"
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.569Z"
                     jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.6344283819198608"
+                    confidence="{Double}0.6544145345687866"
                     isCustom="{Boolean}false"
                     name="travel"/>
-                <beautiful
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.233Z"
-                    jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.6312641501426697"
-                    isCustom="{Boolean}false"
-                    name="beautiful"/>
-                <background
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.233Z"
-                    jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.6298161745071411"
-                    isCustom="{Boolean}false"
-                    name="background"/>
-                <outdoor
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.234Z"
-                    jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.6146839261054993"
-                    isCustom="{Boolean}false"
-                    name="outdoor"/>
                 <panorama
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.234Z"
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.570Z"
                     jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.6128430962562561"
+                    confidence="{Double}0.6369466781616211"
                     isCustom="{Boolean}false"
                     name="panorama"/>
-                <hill
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.235Z"
+                <background
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.571Z"
                     jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.6098065376281738"
+                    confidence="{Double}0.6352624297142029"
                     isCustom="{Boolean}false"
-                    name="hill"/>
-                <view
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.235Z"
+                    name="background"/>
+                <arctic
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.572Z"
                     jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.5934725999832153"
+                    confidence="{Double}0.6223071813583374"
                     isCustom="{Boolean}false"
-                    name="view"/>
+                    name="arctic"/>
+                <beautiful
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.574Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6221241354942322"
+                    isCustom="{Boolean}false"
+                    name="beautiful"/>
+                <frost
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.575Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6196804046630859"
+                    isCustom="{Boolean}false"
+                    name="frost"/>
+                <peak
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.577Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6187748908996582"
+                    isCustom="{Boolean}false"
+                    name="peak"/>
                 <clouds
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.236Z"
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.578Z"
                     jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.5928382873535156"
+                    confidence="{Double}0.6162139773368835"
                     isCustom="{Boolean}false"
                     name="clouds"/>
-                <beauty
-                    jcr:lastModified="{Date}2022-11-28T20:35:34.236Z"
+                <alps
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.579Z"
                     jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.5854249596595764"
+                    confidence="{Double}0.6120542883872986"
                     isCustom="{Boolean}false"
-                    name="beauty"/>
+                    name="alps"/>
+                <hill
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.580Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6103523969650269"
+                    isCustom="{Boolean}false"
+                    name="hill"/>
+                <alpine
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.581Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6039457321166992"
+                    isCustom="{Boolean}false"
+                    name="alpine"/>
             </predictedTags>
+            <dam:colorDistribution jcr:primaryType="nt:unstructured">
+                <color1
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.585Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.313"
+                    name="LIGHT_BLUE"
+                    rank="{Long}1"
+                    rgb="{Long}[119,183,228]"/>
+                <color2
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.589Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.2136"
+                    name="OFF_WHITE"
+                    rank="{Long}2"
+                    rgb="{Long}[222,225,231]"/>
+                <color3
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.590Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.181"
+                    name="TURQUOISE"
+                    rank="{Long}3"
+                    rgb="{Long}[7,139,228]"/>
+                <color4
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.591Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.0982"
+                    name="BLUE"
+                    rank="{Long}4"
+                    rgb="{Long}[3,111,213]"/>
+                <color5
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.593Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.076"
+                    name="CYAN"
+                    rank="{Long}5"
+                    rgb="{Long}[204,223,233]"/>
+                <color6
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.594Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.0595"
+                    name="WHITE"
+                    rank="{Long}6"
+                    rgb="{Long}[236,238,243]"/>
+                <color7
+                    jcr:lastModified="{Date}2023-01-22T15:39:10.595Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.0587"
+                    name="LAVENDER"
+                    rank="{Long}7"
+                    rgb="{Long}[205,213,231]"/>
+            </dam:colorDistribution>
+            <imageFeatures
+                jcr:lastModified="{Date}2023-01-22T15:39:10.611Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
         </metadata>
         <related jcr:primaryType="nt:unstructured"/>
+        <usages
+            dam:score="{Long}1"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[asset]">
+            <asset
+                jcr:primaryType="nt:unstructured"
+                count="{Long}1"
+                lastUsed="{Date}2022-12-13T23:39:59.020Z"/>
+        </usages>
     </jcr:content>
 </jcr:root>

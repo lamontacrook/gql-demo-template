@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:dam="http://www.day.com/dam/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+<jcr:root xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="nt:file">
     <jcr:content
-        dam:folderThumbnailPaths="[/content/dam/gql-demo-template/assets/hero.mov]"
+        cq:lastReplicated="{Date}2022-12-07T03:48:53.222Z"
+        cq:lastReplicated_publish="{Date}2022-12-07T03:48:53.222Z"
+        cq:lastReplicatedBy="lamont@adobe.com"
+        cq:lastReplicatedBy_publish="lamont@adobe.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
+        dam:folderThumbnailPaths="[/content/dam/gql-demo-template/assets/AdobeStock_163855721.mp4,/content/dam/gql-demo-template/assets/AdobeStock_169884895.mp4,/content/dam/gql-demo-template/assets/AdobeStock_202306731.jpeg]"
+        jcr:mixinTypes="[cq:ReplicationStatus]"
         jcr:primaryType="nt:unstructured"
         bgcolor="{Long}-1"
         height="{Long}240"

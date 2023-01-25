@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jcr:root xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
-    dam:processingId="b6940fdb-03aa-43da-ab0e-b72b3caddc3f"
+    dam:processingId="4b8a3652-19c5-4ba3-b843-1b9da6653b46"
     dam:size="{Long}271"
     dc:format="application/json"
     jcr:primaryType="nt:unstructured"

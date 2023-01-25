@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="36f3b843-f0c9-4dcc-9c3e-492745895ded">
+    <jcr:content
+        cq:name="header"
+        cq:parentPath="/content/dam/gql-demo-template/site/en/new-adventure"
+        dam:processingId="/var/workflow/instances/server72/2023-01-04_1/dynamic-media-reupload_5"
+        dam:processingRenditions="[]"
+        dam:processingRequestedDate="{Date}2023-01-08T19:59:44.463Z"
+        dam:runPostProcess="{Boolean}true"
+        dam:scene7RequestID="/var/workflow/instances/server72/2023-01-04_1/dynamic-media-reupload_5"
+        jcr:lastModified="{Date}2023-01-08T19:43:13.717Z"
+        jcr:lastModifiedBy="lamont@adobe.com"
+        jcr:primaryType="dam:AssetContent"
+        jcr:title="Header"
+        contentFragment="{Boolean}true"
+        lastFragmentSave="{Date}2023-01-08T19:43:13.717Z">
+        <data
+            cq:model="/conf/aem-demo-assets/settings/dam/cfm/models/header"
+            jcr:primaryType="nt:unstructured">
+            <master
+                jcr:mixinTypes="[cq:Taggable,dam:cfVariationNode]"
+                jcr:primaryType="nt:unstructured"
+                banner="/content/dam/aem-demo-assets/en/adventures/surf-camp-in-costa-rica/AdobeStock_266405335.jpeg"
+                banner_x0040_LastModified="{Date}2023-01-08T19:43:13.586Z"
+                navigationColor="light-nav"
+                navigationColor_x0040_LastModified="{Date}2023-01-08T19:43:13.586Z"
+                placeholder_x0040_LastModified="{Date}2023-01-08T19:42:33.008Z"
+                teaser_x0040_LastModified="{Date}2023-01-08T19:42:33.008Z"/>
+        </data>
+        <metadata
+            dam:scene7FileStatus="NotSupported"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

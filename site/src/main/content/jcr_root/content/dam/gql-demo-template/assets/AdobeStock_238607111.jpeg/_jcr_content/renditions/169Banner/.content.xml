@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:dam="http://www.day.com/dam/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="sling:OrderedFolder"
     sling:resourceType="dam/rendition/smartcrop">
     <jcr:content
-        jcr:lastModified="{Date}2022-11-29T19:15:31.202Z"
+        dam:scene7ID="sa|1376980027"
+        jcr:lastModified="{Date}2023-01-22T15:45:46.368Z"
         jcr:lastModifiedBy="dam-writer-service"
         jcr:primaryType="nt:unstructured"
         croptype="banner"

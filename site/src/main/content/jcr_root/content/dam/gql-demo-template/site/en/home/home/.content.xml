@@ -5,6 +5,12 @@
     jcr:primaryType="dam:Asset"
     jcr:uuid="84a457dd-96aa-478e-91b3-39f3cef050f6">
     <jcr:content
+        cq:lastReplicated="{Date}2022-12-07T03:48:53.222Z"
+        cq:lastReplicated_publish="{Date}2022-12-07T03:48:53.222Z"
+        cq:lastReplicatedBy="lamont@adobe.com"
+        cq:lastReplicatedBy_publish="lamont@adobe.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
         cq:name="home"
         cq:parentPath="/content/dam/gql-demo-template/site/home"
         dam:processingId="11a6cba2-6537-4709-bd92-81247015962e"

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
-    dam:processingId="4ce8b6fa-94dd-4ff4-b265-6e7b3697c7f6"
-    dam:sha1="f726c2be289d5f423dae245618977c792e13732b"
-    dam:size="{Long}53266"
+    dam:processingId="69b216df-c2d7-4e98-8bdd-e7ced19ce4a3"
+    dam:sha1="d5db7e911af95d85b7e24608ebb3807cc2ad6094"
+    dam:size="{Long}53342"
     dc:format="image/webp"
     jcr:primaryType="nt:unstructured"
     tiff:ImageLength="{Long}720"

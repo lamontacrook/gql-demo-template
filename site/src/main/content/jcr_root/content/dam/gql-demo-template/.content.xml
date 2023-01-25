@@ -3,8 +3,8 @@
     jcr:mixinTypes="[rep:AccessControllable]"
     jcr:primaryType="sling:Folder">
     <jcr:content
-        cq:lastReplicated="{Date}2022-11-23T20:36:43.913Z"
-        cq:lastReplicated_publish="{Date}2022-11-23T20:36:43.913Z"
+        cq:lastReplicated="{Date}2022-12-07T03:48:45.925Z"
+        cq:lastReplicated_publish="{Date}2022-12-07T03:48:45.925Z"
         cq:lastReplicated_scene7="{Date}2022-11-23T20:36:43.913Z"
         cq:lastReplicatedBy="lamont@adobe.com"
         cq:lastReplicatedBy_publish="lamont@adobe.com"
@@ -18,7 +18,7 @@
         jcr:lastModifiedBy="lamont@adobe.com"
         jcr:mixinTypes="[cq:ReplicationStatus]"
         jcr:primaryType="nt:unstructured"
-        jcr:title="GraphQL Demo"
+        jcr:title="GQL Demo"
         metadataSchema="System Default"
         postProcessWF="System Default"
         processingProfile="/conf/global/settings/dam/processing/GQL-Demo"

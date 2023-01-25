@@ -5,27 +5,33 @@
     jcr:primaryType="dam:Asset"
     jcr:uuid="8da6eaab-d5ae-4067-b209-d6acc4e229cf">
     <jcr:content
+        cq:lastReplicated="{Date}2022-12-07T03:48:53.222Z"
+        cq:lastReplicated_publish="{Date}2022-12-07T03:48:53.222Z"
+        cq:lastReplicatedBy="lamont@adobe.com"
+        cq:lastReplicatedBy_publish="lamont@adobe.com"
+        cq:lastReplicationAction="Activate"
+        cq:lastReplicationAction_publish="Activate"
         cq:name="hero"
-        cq:parentPath="/content/dam/gql-demo-template/site/magazine/components"
-        dam:processingId="c6de4937-733b-4d32-aff6-ca05d645d8c8"
-        dam:processingRenditions="[cq5dam.thumbnail.140.100.png,cqdam.text.txt,cq5dam.thumbnail.319.319.png,cqdam.photoshop.x-creative-json,cqdam.machine.metadata.tags.json,cqdam.machine.metadata.features.json,cqdam.metadata.xml,cqdam.machine.metadata.colors.json,cq5dam.zoom.2048.2048.jpeg,cq5dam.preview.pdf,cq5dam.thumbnail.48.48.png,cq5dam.web.1280.1280.jpeg]"
-        dam:processingRequestedDate="{Date}2022-11-28T22:13:30.607Z"
+        cq:parentPath="/content/dam/gql-demo-template/site/en/magazine/components"
+        dam:processingId="d7c41fca-32ac-4a44-871a-c77bf61fbb5d"
+        dam:processingRenditions="[cqdam.metadata.xml,cq5dam.thumbnail.140.100.png,cq5dam.web.1280.1280.jpeg,cq5dam.thumbnail.48.48.png,cq5dam.thumbnail.319.319.png,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.tags.json,cqdam.text.txt,cqdam.machine.metadata.features.json,cq5dam.preview.pdf,cqdam.machine.metadata.colors.json]"
+        dam:processingRequestedDate="{Date}2023-01-25T16:04:50.847Z"
         dam:runPostProcess="{Boolean}true"
-        dam:scene7RequestID="c6de4937-733b-4d32-aff6-ca05d645d8c8"
-        jcr:lastModified="{Date}2022-11-28T22:13:30.592Z"
+        dam:scene7RequestID="d7c41fca-32ac-4a44-871a-c77bf61fbb5d"
+        jcr:lastModified="{Date}2023-01-25T16:04:50.834Z"
         jcr:lastModifiedBy="lamont@adobe.com"
         jcr:primaryType="dam:AssetContent"
         jcr:title="Hero"
         contentFragment="{Boolean}true"
-        lastFragmentSave="{Date}2022-11-28T22:13:30.592Z">
+        lastFragmentSave="{Date}2023-01-25T16:04:50.834Z">
         <data
             cq:model="/conf/aem-demo-assets/settings/dam/cfm/models/teaser"
             jcr:primaryType="nt:unstructured">
             <master
                 jcr:mixinTypes="[cq:Taggable,dam:cfVariationNode]"
                 jcr:primaryType="nt:unstructured"
-                asset="/content/dam/aem-demo-assets/en/magazine/western-australia/adobestock_156407519.jpeg"
-                asset_x0040_LastModified="{Date}2022-11-28T22:13:30.454Z"
+                asset="/content/dam/gql-demo-template/assets/AdobeStock_163855721.mp4"
+                asset_x0040_LastModified="{Date}2023-01-25T16:04:50.520Z"
                 callToAction="Read Now"
                 callToAction_x0040_LastModified="{Date}2022-11-28T22:08:18.092Z"
                 description_x0040_ContentType="text/html"
